@@ -49,6 +49,7 @@ oligo::boxplot(eset)
 # save data
 
 write.csv(exprs(eset), file='../FinalReport/result/data.csv')
+write.table(exprs(eset), file="../FinalReport/result/data.txt", sep='\t')
 
 # add gene annotation
 
@@ -61,6 +62,7 @@ Annot <- data.frame(
 
 all <- merge(Annot, my_frame, by.x=0, by.y=0, all=T)
 write.csv(all,file="../FinalReport/result/data.ann.csv")
+write.table(all, file="../FinalReport/result/data.ann.txt", sep='\t')
 
 # differential expression analysis
 
