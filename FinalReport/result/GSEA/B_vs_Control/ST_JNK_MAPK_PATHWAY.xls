@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAP3K12	mitogen-activated protein kinase kinase kinase 12 [Source:HGNC Symbol;Acc:HGNC:6851]	null	null	373	0.310681015253067	0.14907055	Yes	
+row_1	IL1R1	interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]	null	null	940	0.21530374884605408	0.2409606	Yes	
+row_2	DUSP8	dual specificity phosphatase 8 [Source:HGNC Symbol;Acc:HGNC:3074]	null	null	1234	0.18739967048168182	0.3283535	Yes	
+row_3	GCK	glucokinase [Source:HGNC Symbol;Acc:HGNC:4195]	null	null	6555	0.049344584345817566	0.15671688	No	
+row_4	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	null	null	6739	0.04742515832185745	0.17479213	No	
+row_5	MAP3K1	mitogen-activated protein kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6848]	null	null	7332	0.0416259840130806	0.17464162	No	
+row_6	MAP3K5	mitogen-activated protein kinase kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6857]	null	null	7577	0.03954580798745155	0.18632029	No	
+row_7	MAP3K10	mitogen-activated protein kinase kinase kinase 10 [Source:HGNC Symbol;Acc:HGNC:6849]	null	null	8180	0.03452623263001442	0.18207549	No	
+row_8	ATF2	activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784]	null	null	8396	0.03274540975689888	0.19126473	No	
+row_9	NFATC3	nuclear factor of activated T cells 3 [Source:HGNC Symbol;Acc:HGNC:7777]	null	null	9728	0.02270416170358658	0.15375537	No	
+row_10	GAB1	GRB2 associated binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4066]	null	null	9810	0.02219320647418499	0.16238607	No	
+row_11	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	null	null	9899	0.02164020575582981	0.1704669	No	
+row_12	GADD45A	growth arrest and DNA damage inducible alpha [Source:HGNC Symbol;Acc:HGNC:4095]	null	null	9912	0.021568384021520615	0.18133168	No	
+row_13	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	null	null	10420	0.018291113898158073	0.1721003	No	
+row_14	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	null	null	11474	0.011501386761665344	0.13903743	No	
+row_15	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	null	null	12095	0.007646036799997091	0.12002857	No	
+row_16	MAPK7	mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:HGNC:6880]	null	null	13319	3.073302796110511E-4	0.07478413	No	
+row_17	MAP2K5	mitogen-activated protein kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6845]	null	null	13487	-4.918914055451751E-4	0.068841964	No	
+row_18	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	null	null	13869	-0.0025795395486056805	0.05604949	No	
+row_19	MAP2K7	mitogen-activated protein kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6847]	null	null	14363	-0.00560817401856184	0.04068705	No	
+row_20	MAP3K4	mitogen-activated protein kinase kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6856]	null	null	14662	-0.007480066269636154	0.033545867	No	
+row_21	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	null	null	14723	-0.007755388505756855	0.035385147	No	
+row_22	DUSP10	dual specificity phosphatase 10 [Source:HGNC Symbol;Acc:HGNC:3065]	null	null	14815	-0.008300140500068665	0.036359172	No	
+row_23	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	null	null	15615	-0.013427008874714375	0.013736186	No	
+row_24	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	null	null	17153	-0.023496240377426147	-0.031005869	No	
+row_25	MAP3K11	mitogen-activated protein kinase kinase kinase 11 [Source:HGNC Symbol;Acc:HGNC:6850]	null	null	17495	-0.025775298476219177	-0.03014961	No	
+row_26	SHC1	SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	null	null	17642	-0.026741674169898033	-0.021546941	No	
+row_27	MAP3K9	mitogen-activated protein kinase kinase kinase 9 [Source:HGNC Symbol;Acc:HGNC:6861]	null	null	17730	-0.027256574481725693	-0.010483804	No	
+row_28	NR2C2	nuclear receptor subfamily 2 group C member 2 [Source:HGNC Symbol;Acc:HGNC:7972]	null	null	18392	-0.03234197571873665	-0.018064484	No	
+row_29	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	null	null	18399	-0.032431550323963165	-0.001280391	No	
+row_30	MYEF2	myelin expression factor 2 [Source:HGNC Symbol;Acc:HGNC:17940]	null	null	18757	-0.03522554412484169	0.00393748	No	
+row_31	MAP3K3	mitogen-activated protein kinase kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6855]	null	null	20471	-0.05124947056174278	-0.032785244	No	
+row_32	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	null	null	21896	-0.06900133937597275	-0.049469497	No	
+row_33	PAPPA	pappalysin 1 [Source:HGNC Symbol;Acc:HGNC:8602]	null	null	25632	-0.18508867919445038	-0.091077596	No	
+row_34	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	26319	-0.2682698369026184	0.024132298	No	

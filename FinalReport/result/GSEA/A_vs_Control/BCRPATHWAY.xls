@@ -1,0 +1,35 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BLNK	B cell linker [Source:HGNC Symbol;Acc:HGNC:14211]	null	null	898	0.22013714909553528	0.08048531	Yes	
+row_1	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	null	null	1559	0.16380374133586884	0.14067875	Yes	
+row_2	NFATC2	nuclear factor of activated T cells 2 [Source:HGNC Symbol;Acc:HGNC:7776]	null	null	2281	0.12858614325523376	0.18039805	Yes	
+row_3	NFATC4	nuclear factor of activated T cells 4 [Source:HGNC Symbol;Acc:HGNC:7778]	null	null	2469	0.12235545367002487	0.23672049	Yes	
+row_4	SYK	spleen associated tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11491]	null	null	2740	0.11449995636940002	0.2858998	Yes	
+row_5	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	null	null	3433	0.09684444963932037	0.31028342	Yes	
+row_6	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	null	null	3993	0.0848984643816948	0.33342794	Yes	
+row_7	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	null	null	4232	0.08065532892942429	0.36629564	Yes	
+row_8	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	null	null	6525	0.04966975376009941	0.30688715	Yes	
+row_9	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	null	null	6739	0.04742515832185745	0.32350108	Yes	
+row_10	CD79A	CD79a molecule [Source:HGNC Symbol;Acc:HGNC:1698]	null	null	6861	0.04629205912351608	0.3429446	Yes	
+row_11	CD79B	CD79b molecule [Source:HGNC Symbol;Acc:HGNC:1699]	null	null	7006	0.044852569699287415	0.36078995	Yes	
+row_12	MAP3K1	mitogen-activated protein kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6848]	null	null	7332	0.0416259840130806	0.37024736	Yes	
+row_13	BTK	Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:1133]	null	null	8179	0.034533947706222534	0.35669562	No	
+row_14	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	null	null	9380	0.02507864497601986	0.32511267	No	
+row_15	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	null	null	9680	0.023071661591529846	0.32594165	No	
+row_16	NFATC3	nuclear factor of activated T cells 3 [Source:HGNC Symbol;Acc:HGNC:7777]	null	null	9728	0.02270416170358658	0.33593616	No	
+row_17	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	null	null	10420	0.018291113898158073	0.3197403	No	
+row_18	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	null	null	12403	0.005664272233843803	0.24908723	No	
+row_19	RAF1	"Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]"	null	null	12494	0.005086926277726889	0.2483762	No	
+row_20	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	null	null	13552	-8.476265938952565E-4	0.20957331	No	
+row_21	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	null	null	16787	-0.020905787125229836	0.100320436	No	
+row_22	HRAS	"HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]"	null	null	17087	-0.022952860221266747	0.101088	No	
+row_23	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	null	null	17305	-0.024544607847929	0.105722845	No	
+row_24	FOS	"Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]"	null	null	17338	-0.024741895496845245	0.11732783	No	
+row_25	LYN	"LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]"	null	null	17381	-0.025062279775738716	0.12872723	No	
+row_26	VAV1	vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	null	null	17565	-0.026161033660173416	0.13546011	No	
+row_27	SHC1	SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	null	null	17642	-0.026741674169898033	0.14646558	No	
+row_28	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	null	null	19073	-0.03831451013684273	0.11318759	No	
+row_29	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	null	null	19378	-0.04085872322320938	0.12302789	No	
+row_30	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	19835	-0.04483848810195923	0.12928295	No	
+row_31	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	null	null	21093	-0.05817340686917305	0.11269578	No	
+row_32	ELK1	ETS transcription factor ELK1 [Source:HGNC Symbol;Acc:HGNC:3321]	null	null	22813	-0.08360994607210159	0.092109	No	
+row_33	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	null	null	24350	-0.1201905682682991	0.09723039	No	

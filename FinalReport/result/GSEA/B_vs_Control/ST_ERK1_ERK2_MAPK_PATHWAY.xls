@@ -1,0 +1,27 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	null	null	3993	0.0848984643816948	-0.09624773	No	
+row_1	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	null	null	7085	0.0441284105181694	-0.18396541	No	
+row_2	RAP1A	"RAP1A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9855]"	null	null	7207	0.042779453098773956	-0.16227989	No	
+row_3	DUSP9	dual specificity phosphatase 9 [Source:HGNC Symbol;Acc:HGNC:3076]	null	null	7676	0.03866094350814819	-0.155993	No	
+row_4	MOS	"MOS proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:7199]"	null	null	8012	0.03583919256925583	-0.14649655	No	
+row_5	RPS6KA1	ribosomal protein S6 kinase A1 [Source:HGNC Symbol;Acc:HGNC:10430]	null	null	8548	0.03138074651360512	-0.14715098	No	
+row_6	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	null	null	9680	0.023071661591529846	-0.17500961	No	
+row_7	BRAF	"B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]"	null	null	9822	0.022115347906947136	-0.16671051	No	
+row_8	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	null	null	10184	0.01982828788459301	-0.16797595	No	
+row_9	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	11776	0.009563418105244637	-0.22117259	No	
+row_10	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	null	null	12736	0.0036395785864442587	-0.2545379	No	
+row_11	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	null	null	14253	-0.004897602833807468	-0.30780596	No	
+row_12	CREB3	cAMP responsive element binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2347]	null	null	14559	-0.006828099489212036	-0.3149477	No	
+row_13	TRAF3	TNF receptor associated factor 3 [Source:HGNC Symbol;Acc:HGNC:12033]	null	null	15423	-0.012183775193989277	-0.33952194	No	
+row_14	SHC1	SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	null	null	17642	-0.026741674169898033	-0.40547785	Yes	
+row_15	ATF1	activating transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:783]	null	null	17649	-0.02679101563990116	-0.38930738	Yes	
+row_16	RPS6KA3	ribosomal protein S6 kinase A3 [Source:HGNC Symbol;Acc:HGNC:10432]	null	null	17926	-0.028793951496481895	-0.38193214	Yes	
+row_17	RPS6KA2	ribosomal protein S6 kinase A2 [Source:HGNC Symbol;Acc:HGNC:10431]	null	null	18092	-0.030086811631917953	-0.3696461	Yes	
+row_18	EEF2K	eukaryotic elongation factor 2 kinase [Source:HGNC Symbol;Acc:HGNC:24615]	null	null	18647	-0.034386828541755676	-0.3691663	Yes	
+row_19	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	null	null	19073	-0.03831451013684273	-0.3614955	Yes	
+row_20	MKNK2	MAPK interacting serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:7111]	null	null	20318	-0.04978896677494049	-0.37719995	Yes	
+row_21	MAP3K8	mitogen-activated protein kinase kinase kinase 8 [Source:HGNC Symbol;Acc:HGNC:6860]	null	null	21573	-0.0645122230052948	-0.38426656	Yes	
+row_22	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	null	null	22976	-0.08701564371585846	-0.38305637	Yes	
+row_23	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	null	null	24350	-0.1201905682682991	-0.3604705	Yes	
+row_24	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	26319	-0.2682698369026184	-0.26935923	Yes	
+row_25	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	null	null	26836	-0.4795733392238617	0.0049361335	Yes	

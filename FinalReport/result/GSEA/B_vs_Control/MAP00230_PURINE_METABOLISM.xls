@@ -1,0 +1,72 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DOK4	docking protein 4 [Source:HGNC Symbol;Acc:HGNC:19868]	null	null	2569	0.1189381331205368	-0.06203622	No	
+row_1	PDE6C	phosphodiesterase 6C [Source:HGNC Symbol;Acc:HGNC:8787]	null	null	3590	0.09290901571512222	-0.07381125	No	
+row_2	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4684]	null	null	3697	0.09096397459506989	-0.05215466	No	
+row_3	ADCY8	adenylate cyclase 8 [Source:HGNC Symbol;Acc:HGNC:239]	null	null	4143	0.081952303647995	-0.04563665	No	
+row_4	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	null	null	5846	0.05711286514997482	-0.09283882	No	
+row_5	DGUOK	deoxyguanosine kinase [Source:HGNC Symbol;Acc:HGNC:2858]	null	null	6907	0.04574603587388992	-0.119372554	No	
+row_6	PDE1A	phosphodiesterase 1A [Source:HGNC Symbol;Acc:HGNC:8774]	null	null	7020	0.04470040276646614	-0.110957585	No	
+row_7	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	null	null	7118	0.04375490918755531	-0.10225104	No	
+row_8	PKLR	pyruvate kinase L/R [Source:HGNC Symbol;Acc:HGNC:9020]	null	null	7259	0.04233429208397865	-0.095542826	No	
+row_9	GDA	guanine deaminase [Source:HGNC Symbol;Acc:HGNC:4212]	null	null	7432	0.04086506739258766	-0.09043769	No	
+row_10	POLD2	"DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]"	null	null	7452	0.04065098240971565	-0.07970485	No	
+row_11	HPRT1	hypoxanthine phosphoribosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5157]	null	null	7926	0.03646640107035637	-0.0870275	No	
+row_12	GUCY2C	guanylate cyclase 2C [Source:HGNC Symbol;Acc:HGNC:4688]	null	null	8853	0.028908798471093178	-0.11331764	No	
+row_13	PDE4C	phosphodiesterase 4C [Source:HGNC Symbol;Acc:HGNC:8782]	null	null	8930	0.028329579159617424	-0.108171076	No	
+row_14	IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	null	null	8942	0.02824730984866619	-0.10063122	No	
+row_15	ADCY2	adenylate cyclase 2 [Source:HGNC Symbol;Acc:HGNC:233]	null	null	8996	0.027789423242211342	-0.094781615	No	
+row_16	PDE4A	phosphodiesterase 4A [Source:HGNC Symbol;Acc:HGNC:8780]	null	null	9566	0.023794805631041527	-0.10923896	No	
+row_17	GMPR	guanosine monophosphate reductase [Source:HGNC Symbol;Acc:HGNC:4376]	null	null	9847	0.021933306008577347	-0.11347624	No	
+row_18	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	null	null	10818	0.01580340787768364	-0.14508997	No	
+row_19	RRM1	ribonucleotide reductase catalytic subunit M1 [Source:HGNC Symbol;Acc:HGNC:10451]	null	null	11818	0.009326206520199776	-0.1796045	No	
+row_20	POLRMT	RNA polymerase mitochondrial [Source:HGNC Symbol;Acc:HGNC:9200]	null	null	12046	0.007994520477950573	-0.18579383	No	
+row_21	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	null	null	12517	0.004976040683686733	-0.20186633	No	
+row_22	PPAT	phosphoribosyl pyrophosphate amidotransferase [Source:HGNC Symbol;Acc:HGNC:9238]	null	null	12659	0.004169987980276346	-0.20593473	No	
+row_23	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	null	null	12691	0.004019169602543116	-0.20595619	No	
+row_24	ADSL	adenylosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:291]	null	null	12708	0.0038478870410472155	-0.20546822	No	
+row_25	POLR2B	RNA polymerase II subunit B [Source:HGNC Symbol;Acc:HGNC:9188]	null	null	12750	0.003565881634131074	-0.205989	No	
+row_26	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	null	null	13537	-7.815536810085177E-4	-0.23498948	No	
+row_27	PDE6G	phosphodiesterase 6G [Source:HGNC Symbol;Acc:HGNC:8789]	null	null	13772	-0.002043105661869049	-0.24311377	No	
+row_28	IGFBP7	insulin like growth factor binding protein 7 [Source:HGNC Symbol;Acc:HGNC:5476]	null	null	14386	-0.005736510269343853	-0.26428846	No	
+row_29	GUCY2D	"guanylate cyclase 2D, retinal [Source:HGNC Symbol;Acc:HGNC:4689]"	null	null	14393	-0.005783692002296448	-0.262884	No	
+row_30	AMPD3	adenosine monophosphate deaminase 3 [Source:HGNC Symbol;Acc:HGNC:470]	null	null	14417	-0.005933417938649654	-0.26206937	No	
+row_31	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	null	null	14571	-0.006895959377288818	-0.2658168	No	
+row_32	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	null	null	14774	-0.008029170334339142	-0.27106696	No	
+row_33	POLR2K	RNA polymerase II subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	null	null	15111	-0.010165858082473278	-0.28069746	No	
+row_34	POLR2E	RNA polymerase II subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	null	null	16011	-0.01614205725491047	-0.3095764	No	
+row_35	POLR2H	RNA polymerase II subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	null	null	16253	-0.017806660383939743	-0.31352505	No	
+row_36	AK1	adenylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:361]	null	null	16317	-0.01812087930738926	-0.31076792	No	
+row_37	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	null	null	16574	-0.01953745074570179	-0.31478718	No	
+row_38	NPR2	natriuretic peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:7944]	null	null	16669	-0.020108113065361977	-0.3126233	No	
+row_39	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	null	null	16873	-0.021579714491963387	-0.31409752	No	
+row_40	PRPS2	phosphoribosyl pyrophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:9465]	null	null	16928	-0.021906740963459015	-0.3099405	No	
+row_41	DCK	deoxycytidine kinase [Source:HGNC Symbol;Acc:HGNC:2704]	null	null	16963	-0.022197667509317398	-0.30495805	No	
+row_42	PRPS1	phosphoribosyl pyrophosphate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9462]	null	null	17210	-0.02388414554297924	-0.30738238	No	
+row_43	AMPD2	adenosine monophosphate deaminase 2 [Source:HGNC Symbol;Acc:HGNC:469]	null	null	17218	-0.023922445252537727	-0.30091083	No	
+row_44	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	null	null	17533	-0.025956852361559868	-0.30527985	No	
+row_45	ATIC	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase [Source:HGNC Symbol;Acc:HGNC:794]	null	null	18364	-0.032152194529771805	-0.3270884	No	
+row_46	AK2	adenylate kinase 2 [Source:HGNC Symbol;Acc:HGNC:362]	null	null	19077	-0.03831913694739342	-0.34277478	Yes	
+row_47	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	null	null	19269	-0.04008988291025162	-0.3385941	Yes	
+row_48	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	null	null	19284	-0.040194205939769745	-0.32780394	Yes	
+row_49	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	null	null	19549	-0.042183853685855865	-0.3257479	Yes	
+row_50	NPR1	natriuretic peptide receptor 1 [Source:HGNC Symbol;Acc:HGNC:7943]	null	null	19847	-0.04497027397155762	-0.32413456	Yes	
+row_51	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	null	null	19893	-0.045346926897764206	-0.31304687	Yes	
+row_52	POLG	"DNA polymerase gamma, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9179]"	null	null	20133	-0.04805009439587593	-0.30841067	Yes	
+row_53	AMPD1	adenosine monophosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:468]	null	null	20235	-0.04890713468194008	-0.298403	Yes	
+row_54	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	null	null	20506	-0.0515555739402771	-0.2939328	Yes	
+row_55	GART	"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol;Acc:HGNC:4163]"	null	null	20586	-0.05231543630361557	-0.28214815	Yes	
+row_56	GMPS	guanine monophosphate synthase [Source:HGNC Symbol;Acc:HGNC:4378]	null	null	20817	-0.05493687838315964	-0.2752394	Yes	
+row_57	PAICS	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase [Source:HGNC Symbol;Acc:HGNC:8587]	null	null	21325	-0.06109251827001572	-0.27689627	Yes	
+row_58	POLE	"DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]"	null	null	21448	-0.06274711340665817	-0.26377472	Yes	
+row_59	PDE6B	phosphodiesterase 6B [Source:HGNC Symbol;Acc:HGNC:8786]	null	null	21605	-0.065106600522995	-0.2512532	Yes	
+row_60	GUCY2F	"guanylate cyclase 2F, retinal [Source:HGNC Symbol;Acc:HGNC:4691]"	null	null	22544	-0.07893206179141998	-0.2639129	Yes	
+row_61	PFAS	phosphoribosylformylglycinamidine synthase [Source:HGNC Symbol;Acc:HGNC:8863]	null	null	22731	-0.08190945535898209	-0.24777833	Yes	
+row_62	POLB	DNA polymerase beta [Source:HGNC Symbol;Acc:HGNC:9174]	null	null	22857	-0.08438709378242493	-0.22867882	Yes	
+row_63	POLR2F	RNA polymerase II subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	null	null	23176	-0.09071093797683716	-0.21497476	Yes	
+row_64	POLR1B	RNA polymerase I subunit B [Source:HGNC Symbol;Acc:HGNC:20454]	null	null	23188	-0.09095997363328934	-0.18978757	Yes	
+row_65	FHIT	fragile histidine triad diadenosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3701]	null	null	23894	-0.10659267753362656	-0.18600155	Yes	
+row_66	IMPDH2	inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053]	null	null	24165	-0.11492501199245453	-0.16369921	Yes	
+row_67	POLD1	"DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]"	null	null	24305	-0.11893174052238464	-0.1353993	Yes	
+row_68	XDH	xanthine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12805]	null	null	24839	-0.13697020709514618	-0.11667074	Yes	
+row_69	NT5C1B	"5'-nucleotidase, cytosolic IB [Source:HGNC Symbol;Acc:HGNC:17818]"	null	null	26340	-0.2730275094509125	-0.09560497	Yes	
+row_70	PDE5A	phosphodiesterase 5A [Source:HGNC Symbol;Acc:HGNC:8784]	null	null	26749	-0.4227139353752136	0.008178855	Yes	

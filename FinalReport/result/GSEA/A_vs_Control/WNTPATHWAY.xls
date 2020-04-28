@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	null	null	7644	0.038963306695222855	-0.23919922	No	
+row_1	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	null	null	7891	0.03681416064500809	-0.20632197	No	
+row_2	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	null	null	9052	0.027287445962429047	-0.21823211	No	
+row_3	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	null	null	9936	0.0214511901140213	-0.22652254	No	
+row_4	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:1144]	null	null	10729	0.016323965042829514	-0.23728639	No	
+row_5	CREBBP	CREB binding protein [Source:HGNC Symbol;Acc:HGNC:2348]	null	null	12688	0.0040382384322583675	-0.3053371	No	
+row_6	CSNK1D	casein kinase 1 delta [Source:HGNC Symbol;Acc:HGNC:2452]	null	null	13255	6.885217735543847E-4	-0.3255549	No	
+row_7	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	null	null	14723	-0.007755388505756855	-0.37114397	No	
+row_8	FRAT1	FRAT regulator of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:3944]	null	null	15110	-0.010164916515350342	-0.3738694	No	
+row_9	TLE1	"TLE family member 1, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11837]"	null	null	15857	-0.015105126425623894	-0.38431698	No	
+row_10	NLK	nemo like kinase [Source:HGNC Symbol;Acc:HGNC:29858]	null	null	16223	-0.017564890906214714	-0.37781957	No	
+row_11	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	null	null	17696	-0.027033451944589615	-0.40159738	Yes	
+row_12	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	null	null	17760	-0.027470484375953674	-0.37259066	Yes	
+row_13	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	null	null	17864	-0.028239745646715164	-0.34419054	Yes	
+row_14	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	null	null	19669	-0.04320301488041878	-0.36183846	Yes	
+row_15	WIF1	WNT inhibitory factor 1 [Source:HGNC Symbol;Acc:HGNC:18081]	null	null	21227	-0.05983749404549599	-0.3513402	Yes	
+row_16	AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	null	null	21734	-0.06688495725393295	-0.29379958	Yes	
+row_17	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	null	null	21769	-0.06726695597171783	-0.21830785	Yes	
+row_18	PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	null	null	22675	-0.0809904932975769	-0.15947871	Yes	
+row_19	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	null	null	23030	-0.08786977082490921	-0.07235334	Yes	
+row_20	MYC	"MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]"	null	null	23420	-0.09545398503541946	0.022127027	Yes	
+row_21	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	23451	-0.09599602967500687	0.13054784	Yes	

@@ -1,0 +1,27 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IDH2	isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383]	null	null	3505	0.09493142366409302	-0.042374827	No	
+row_1	PDK3	pyruvate dehydrogenase kinase 3 [Source:HGNC Symbol;Acc:HGNC:8811]	null	null	4689	0.07278534024953842	-0.019032296	No	
+row_2	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	null	null	6568	0.04914659634232521	-0.043324504	No	
+row_3	PDK2	pyruvate dehydrogenase kinase 2 [Source:HGNC Symbol;Acc:HGNC:8810]	null	null	7513	0.04006977379322052	-0.041338548	No	
+row_4	SDHD	succinate dehydrogenase complex subunit D [Source:HGNC Symbol;Acc:HGNC:10683]	null	null	7538	0.03983698785305023	-0.005422781	No	
+row_5	PDHA2	pyruvate dehydrogenase E1 alpha 2 subunit [Source:HGNC Symbol;Acc:HGNC:8807]	null	null	8059	0.03550431504845619	0.008081358	No	
+row_6	ACO2	aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118]	null	null	8712	0.030014531686902046	0.011614284	No	
+row_7	SDHC	succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682]	null	null	9952	0.02131839469075203	-0.0146733215	No	
+row_8	PDHB	pyruvate dehydrogenase E1 beta subunit [Source:HGNC Symbol;Acc:HGNC:8808]	null	null	10568	0.01729729399085045	-0.021516986	No	
+row_9	PDHA1	pyruvate dehydrogenase E1 alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:8806]	null	null	11772	0.009595171548426151	-0.0572999	No	
+row_10	SUCLG1	succinate-CoA ligase alpha subunit [Source:HGNC Symbol;Acc:HGNC:11449]	null	null	11900	0.008851554244756699	-0.053835183	No	
+row_11	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	null	null	12095	0.007646036799997091	-0.053970914	No	
+row_12	PDHX	pyruvate dehydrogenase complex component X [Source:HGNC Symbol;Acc:HGNC:21350]	null	null	12218	0.006802618037909269	-0.052213695	No	
+row_13	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	null	null	13020	0.0019593900069594383	-0.08013169	No	
+row_14	IDH3G	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:5386]	null	null	14719	-0.007729457691311836	-0.13600983	No	
+row_15	DLST	dihydrolipoamide S-succinyltransferase [Source:HGNC Symbol;Acc:HGNC:2911]	null	null	14964	-0.009283814579248428	-0.13648807	No	
+row_16	OGDH	oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	null	null	15519	-0.01273408904671669	-0.14528385	No	
+row_17	CS	citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422]	null	null	15897	-0.015369041822850704	-0.14507595	No	
+row_18	IDH3B	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:5385]	null	null	16033	-0.01626942679286003	-0.13505456	No	
+row_19	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	null	null	17074	-0.022878943011164665	-0.15251464	No	
+row_20	SDHB	succinate dehydrogenase complex iron sulfur subunit B [Source:HGNC Symbol;Acc:HGNC:10681]	null	null	17909	-0.028636178001761436	-0.15700996	No	
+row_21	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	null	null	21815	-0.06786814332008362	-0.23923492	Yes	
+row_22	PDK4	pyruvate dehydrogenase kinase 4 [Source:HGNC Symbol;Acc:HGNC:8812]	null	null	22732	-0.08193500339984894	-0.19752932	Yes	
+row_23	PC	pyruvate carboxylase [Source:HGNC Symbol;Acc:HGNC:8636]	null	null	24472	-0.12416615337133408	-0.14735001	Yes	
+row_24	PDK1	pyruvate dehydrogenase kinase 1 [Source:HGNC Symbol;Acc:HGNC:8809]	null	null	24560	-0.1275617480278015	-0.03272106	Yes	
+row_25	IDH3A	isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:5384]	null	null	24689	-0.13214395940303802	0.08461985	Yes	

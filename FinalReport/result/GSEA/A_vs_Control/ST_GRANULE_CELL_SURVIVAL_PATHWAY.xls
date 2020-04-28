@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EPHB2	EPH receptor B2 [Source:HGNC Symbol;Acc:HGNC:3393]	null	null	861	0.2248985916376114	0.2689473	Yes	
+row_1	CAMP	cathelicidin antimicrobial peptide [Source:HGNC Symbol;Acc:HGNC:1472]	null	null	4354	0.07843289524316788	0.24429743	Yes	
+row_2	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	null	null	4577	0.0745178684592247	0.33575884	Yes	
+row_3	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	null	null	6739	0.04742515832185745	0.319016	Yes	
+row_4	GNAQ	G protein subunit alpha q [Source:HGNC Symbol;Acc:HGNC:4390]	null	null	7336	0.04158380627632141	0.3525348	Yes	
+row_5	MAPK8IP2	mitogen-activated protein kinase 8 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:6883]	null	null	8790	0.029351506382226944	0.33788446	Yes	
+row_6	ITPKB	inositol-trisphosphate 3-kinase B [Source:HGNC Symbol;Acc:HGNC:6179]	null	null	8897	0.028543731197714806	0.37214035	Yes	
+row_7	CERK	ceramide kinase [Source:HGNC Symbol;Acc:HGNC:19256]	null	null	9897	0.021644972264766693	0.36402708	Yes	
+row_8	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	null	null	9936	0.0214511901140213	0.39131713	Yes	
+row_9	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	null	null	10330	0.0188033077865839	0.4018905	Yes	
+row_10	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	null	null	10420	0.018291113898158073	0.42305997	Yes	
+row_11	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:6884]	null	null	12008	0.008178643882274628	0.37510905	No	
+row_12	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	null	null	12736	0.0036395785864442587	0.35299966	No	
+row_13	ITPKA	inositol-trisphosphate 3-kinase A [Source:HGNC Symbol;Acc:HGNC:6178]	null	null	12769	0.00346542545594275	0.35644865	No	
+row_14	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	null	null	14253	-0.004897602833807468	0.30796736	No	
+row_15	MAP2K7	mitogen-activated protein kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6847]	null	null	14363	-0.00560817401856184	0.31142572	No	
+row_16	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	null	null	14405	-0.005867800675332546	0.31775492	No	
+row_17	CREB3	cAMP responsive element binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2347]	null	null	14559	-0.006828099489212036	0.32121265	No	
+row_18	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	null	null	15615	-0.013427008874714375	0.30002615	No	
+row_19	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	null	null	15623	-0.013474189676344395	0.31779394	No	
+row_20	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	null	null	17153	-0.023496240377426147	0.29248926	No	
+row_21	FOS	"Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]"	null	null	17338	-0.024741895496845245	0.318764	No	
+row_22	MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6882]	null	null	17937	-0.028853660449385643	0.33517653	No	

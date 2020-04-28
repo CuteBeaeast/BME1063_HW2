@@ -1,0 +1,38 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SERPINB5	serpin family B member 5 [Source:HGNC Symbol;Acc:HGNC:8949]	null	null	1115	0.1975868195295334	0.05313294	Yes	
+row_1	PKP1	plakophilin 1 [Source:HGNC Symbol;Acc:HGNC:9023]	null	null	1496	0.16769127547740936	0.11925282	Yes	
+row_2	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	null	null	1850	0.1478809267282486	0.17689727	Yes	
+row_3	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	null	null	2087	0.13655361533164978	0.23346649	Yes	
+row_4	NNT	nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	null	null	4107	0.08286387473344803	0.19814748	Yes	
+row_5	TIAM1	TIAM Rac1 associated GEF 1 [Source:HGNC Symbol;Acc:HGNC:11805]	null	null	4465	0.07631592452526093	0.22140437	Yes	
+row_6	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	null	null	4526	0.07519391924142838	0.25515184	Yes	
+row_7	EGR2	early growth response 2 [Source:HGNC Symbol;Acc:HGNC:3239]	null	null	4959	0.06876774877309799	0.27201277	Yes	
+row_8	KITLG	KIT ligand [Source:HGNC Symbol;Acc:HGNC:6343]	null	null	4991	0.0683809146285057	0.30357742	Yes	
+row_9	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	null	null	5510	0.0612017847597599	0.31362545	Yes	
+row_10	TIMP3	TIMP metallopeptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:11822]	null	null	6165	0.05355430766940117	0.3149651	Yes	
+row_11	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	null	null	6556	0.04933129996061325	0.32408643	Yes	
+row_12	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	null	null	7658	0.03882734477519989	0.30178347	No	
+row_13	BCL6	BCL6 transcription repressor [Source:HGNC Symbol;Acc:HGNC:1001]	null	null	8403	0.03264665976166725	0.2897786	No	
+row_14	VAMP8	vesicle associated membrane protein 8 [Source:HGNC Symbol;Acc:HGNC:12647]	null	null	8531	0.03147823363542557	0.3001234	No	
+row_15	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	null	null	8677	0.03026951476931572	0.3092216	No	
+row_16	TGM2	transglutaminase 2 [Source:HGNC Symbol;Acc:HGNC:11778]	null	null	10086	0.020393332466483116	0.26670057	No	
+row_17	PADI2	peptidyl arginine deiminase 2 [Source:HGNC Symbol;Acc:HGNC:18341]	null	null	10295	0.019054384902119637	0.2680939	No	
+row_18	ACTN4	actinin alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	null	null	11667	0.010309410281479359	0.22212218	No	
+row_19	FOSB	"FosB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3797]"	null	null	12062	0.007887930609285831	0.21126713	No	
+row_20	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	null	null	14740	-0.007868076674640179	0.115636684	No	
+row_21	IRF6	interferon regulatory factor 6 [Source:HGNC Symbol;Acc:HGNC:6121]	null	null	14747	-0.007884826511144638	0.11918627	No	
+row_22	ITPR1	"inositol 1,4,5-trisphosphate receptor type 1 [Source:HGNC Symbol;Acc:HGNC:6180]"	null	null	15141	-0.010372933931648731	0.109557256	No	
+row_23	HMMR	hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012]	null	null	16619	-0.01982896775007248	0.06420429	No	
+row_24	ATP1A1	ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799]	null	null	16867	-0.021552886813879013	0.06534499	No	
+row_25	RARA	retinoic acid receptor alpha [Source:HGNC Symbol;Acc:HGNC:9864]	null	null	16890	-0.021681202575564384	0.07490114	No	
+row_26	F3	"coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]"	null	null	17063	-0.022837979719042778	0.07944135	No	
+row_27	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	null	null	17644	-0.026767633855342865	0.07071295	No	
+row_28	CTSH	cathepsin H [Source:HGNC Symbol;Acc:HGNC:2535]	null	null	17697	-0.02704203873872757	0.08172002	No	
+row_29	AMD1	adenosylmethionine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:457]	null	null	18173	-0.030706793069839478	0.078774795	No	
+row_30	KLF2	Kruppel like factor 2 [Source:HGNC Symbol;Acc:HGNC:6347]	null	null	19169	-0.039302315562963486	0.060634773	No	
+row_31	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	null	null	19990	-0.04650382325053215	0.052437797	No	
+row_32	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	null	null	20857	-0.05532819405198097	0.046754744	No	
+row_33	ARHGEF1	Rho guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:681]	null	null	21003	-0.057048194110393524	0.06866473	No	
+row_34	FBP2	fructose-bisphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3607]	null	null	21881	-0.06882110238075256	0.069028705	No	
+row_35	NUMB	NUMB endocytic adaptor protein [Source:HGNC Symbol;Acc:HGNC:8060]	null	null	22760	-0.0825253427028656	0.0759121	No	
+row_36	GRB7	growth factor receptor bound protein 7 [Source:HGNC Symbol;Acc:HGNC:4567]	null	null	25396	-0.16789685189723969	0.05840406	No	

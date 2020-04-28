@@ -1,0 +1,34 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BTG2	BTG anti-proliferation factor 2 [Source:HGNC Symbol;Acc:HGNC:1131]	null	null	937	0.21578750014305115	0.07004753	No	
+row_1	FEZ1	fasciculation and elongation protein zeta 1 [Source:HGNC Symbol;Acc:HGNC:3659]	null	null	3053	0.10601447522640228	0.043034207	No	
+row_2	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	null	null	3201	0.1018722653388977	0.08706792	No	
+row_3	CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864]	null	null	3275	0.1000722274184227	0.13297428	No	
+row_4	SURF1	SURF1 cytochrome c oxidase assembly factor [Source:HGNC Symbol;Acc:HGNC:11474]	null	null	5225	0.06502832472324371	0.09221189	No	
+row_5	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	null	null	5510	0.0612017847597599	0.111401394	No	
+row_6	IGFBP6	insulin like growth factor binding protein 6 [Source:HGNC Symbol;Acc:HGNC:5475]	null	null	5525	0.06101970747113228	0.14052585	No	
+row_7	BCL6	BCL6 transcription repressor [Source:HGNC Symbol;Acc:HGNC:1001]	null	null	8403	0.03264665976166725	0.049581245	No	
+row_8	DDB2	damage specific DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2718]	null	null	8783	0.029404468834400177	0.049796455	No	
+row_9	GADD45A	growth arrest and DNA damage inducible alpha [Source:HGNC Symbol;Acc:HGNC:4095]	null	null	9912	0.021568384021520615	0.018399172	No	
+row_10	CTDSP2	CTD small phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:17077]	null	null	11177	0.013453429564833641	-0.021989282	No	
+row_11	EXT2	exostosin glycosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:3513]	null	null	11934	0.008677239529788494	-0.045839254	No	
+row_12	FHL2	four and a half LIM domains 2 [Source:HGNC Symbol;Acc:HGNC:3703]	null	null	12239	0.0066910116001963615	-0.053874265	No	
+row_13	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	null	null	12296	0.00640676636248827	-0.0528407	No	
+row_14	SCRIB	scribble planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:30377]	null	null	13622	-0.0012129007373005152	-0.1014403	No	
+row_15	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	null	null	14116	-0.00408150115981698	-0.11775942	No	
+row_16	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	null	null	14241	-0.004829274490475655	-0.120016634	No	
+row_17	DGKA	diacylglycerol kinase alpha [Source:HGNC Symbol;Acc:HGNC:2849]	null	null	14430	-0.006014218088239431	-0.124074094	No	
+row_18	APLP1	amyloid beta precursor like protein 1 [Source:HGNC Symbol;Acc:HGNC:597]	null	null	14521	-0.006538266781717539	-0.12423885	No	
+row_19	NINJ1	ninjurin 1 [Source:HGNC Symbol;Acc:HGNC:7824]	null	null	14754	-0.0079079270362854	-0.12900977	No	
+row_20	BBC3	BCL2 binding component 3 [Source:HGNC Symbol;Acc:HGNC:17868]	null	null	14932	-0.008985755033791065	-0.13121524	No	
+row_21	SMTN	smoothelin [Source:HGNC Symbol;Acc:HGNC:11126]	null	null	20147	-0.048137106001377106	-0.30139238	Yes	
+row_22	BAK1	BCL2 antagonist/killer 1 [Source:HGNC Symbol;Acc:HGNC:949]	null	null	20518	-0.0516902320086956	-0.29001635	Yes	
+row_23	MAN2B1	mannosidase alpha class 2B member 1 [Source:HGNC Symbol;Acc:HGNC:6826]	null	null	21391	-0.061954375356435776	-0.2922899	Yes	
+row_24	POMZP3	POM121 and ZP3 fusion [Source:HGNC Symbol;Acc:HGNC:9203]	null	null	21783	-0.0674215704202652	-0.27405098	Yes	
+row_25	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	null	null	22159	-0.07249060273170471	-0.25275546	Yes	
+row_26	NHLH2	nescient helix-loop-helix 2 [Source:HGNC Symbol;Acc:HGNC:7818]	null	null	22270	-0.07419262081384659	-0.22079533	Yes	
+row_27	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	null	null	22367	-0.07580689340829849	-0.18753122	Yes	
+row_28	NDN	"necdin, MAGE family member [Source:HGNC Symbol;Acc:HGNC:7675]"	null	null	23241	-0.09171987324953079	-0.17538145	Yes	
+row_29	BAX	"BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]"	null	null	23509	-0.09735661000013351	-0.13799635	Yes	
+row_30	LCAT	lecithin-cholesterol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6522]	null	null	24807	-0.13585606217384338	-0.12014508	Yes	
+row_31	SCGB2A2	secretoglobin family 2A member 2 [Source:HGNC Symbol;Acc:HGNC:7050]	null	null	25185	-0.15430758893489838	-0.059176054	Yes	
+row_32	PLK3	polo like kinase 3 [Source:HGNC Symbol;Acc:HGNC:2154]	null	null	26252	-0.2580570578575134	0.026617633	Yes	

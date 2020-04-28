@@ -1,0 +1,49 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SSX2	SSX family member 2 [Source:HGNC Symbol;Acc:HGNC:11336]	null	null	2085	0.13659344613552094	-0.033538464	No	
+row_1	SEMA6B	semaphorin 6B [Source:HGNC Symbol;Acc:HGNC:10739]	null	null	2096	0.13583390414714813	0.009753431	No	
+row_2	PTMA	prothymosin alpha [Source:HGNC Symbol;Acc:HGNC:9623]	null	null	2660	0.11613626033067703	0.026172763	No	
+row_3	EPHB3	EPH receptor B3 [Source:HGNC Symbol;Acc:HGNC:3394]	null	null	4008	0.08469153195619583	0.003363133	No	
+row_4	UTY	"ubiquitously transcribed tetratricopeptide repeat containing, Y-linked [Source:HGNC Symbol;Acc:HGNC:12638]"	null	null	6065	0.054769329726696014	-0.055400223	No	
+row_5	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	null	null	7456	0.040620848536491394	-0.09397343	No	
+row_6	CEACAM6	CEA cell adhesion molecule 6 [Source:HGNC Symbol;Acc:HGNC:1818]	null	null	8063	0.03548317030072212	-0.10507696	No	
+row_7	CHIT1	chitinase 1 [Source:HGNC Symbol;Acc:HGNC:1936]	null	null	8523	0.031541284173727036	-0.111987375	No	
+row_8	PDE4C	phosphodiesterase 4C [Source:HGNC Symbol;Acc:HGNC:8782]	null	null	8930	0.028329579159617424	-0.11796153	No	
+row_9	ALDH3A1	aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	null	null	8981	0.027882739901542664	-0.11085594	No	
+row_10	EPB42	erythrocyte membrane protein band 4.2 [Source:HGNC Symbol;Acc:HGNC:3381]	null	null	9011	0.02765134535729885	-0.103044696	No	
+row_11	TPSD1	tryptase delta 1 [Source:HGNC Symbol;Acc:HGNC:14118]	null	null	9055	0.02726859226822853	-0.09587651	No	
+row_12	SSRP1	structure specific recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:11327]	null	null	9334	0.025426527485251427	-0.09802937	No	
+row_13	GPD1	glycerol-3-phosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4455]	null	null	11114	0.01385773066431284	-0.15965463	No	
+row_14	EBNA1BP2	EBNA1 binding protein 2 [Source:HGNC Symbol;Acc:HGNC:15531]	null	null	11802	0.009419026784598827	-0.18214509	No	
+row_15	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	null	null	12116	0.007466611452400684	-0.19137114	No	
+row_16	RAB40C	"RAB40C, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18285]"	null	null	12340	0.006049250718206167	-0.19770983	No	
+row_17	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	null	null	12694	0.004006503615528345	-0.2095339	No	
+row_18	ENTPD6	ectonucleoside triphosphate diphosphohydrolase 6 [Source:HGNC Symbol;Acc:HGNC:3368]	null	null	13248	7.323724566958845E-4	-0.2298393	No	
+row_19	PARD6A	par-6 family cell polarity regulator alpha [Source:HGNC Symbol;Acc:HGNC:15943]	null	null	13903	-0.0027634617872536182	-0.2532434	No	
+row_20	RNF6	ring finger protein 6 [Source:HGNC Symbol;Acc:HGNC:10069]	null	null	13993	-0.003330338979139924	-0.2554787	No	
+row_21	EIF5	eukaryotic translation initiation factor 5 [Source:HGNC Symbol;Acc:HGNC:3299]	null	null	14536	-0.006672883406281471	-0.27346596	No	
+row_22	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	null	null	14923	-0.00893598236143589	-0.28493124	No	
+row_23	IRS2	insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126]	null	null	16233	-0.017680101096630096	-0.32786998	No	
+row_24	CXCL5	C-X-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10642]	null	null	16688	-0.02018497698009014	-0.33824512	No	
+row_25	INHBB	inhibin subunit beta B [Source:HGNC Symbol;Acc:HGNC:6067]	null	null	16689	-0.02018669992685318	-0.33175617	No	
+row_26	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	null	null	16873	-0.021579714491963387	-0.33161688	No	
+row_27	ODC1	ornithine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:8109]	null	null	17455	-0.025559060275554657	-0.34498188	No	
+row_28	SLC9A3R2	SLC9A3 regulator 2 [Source:HGNC Symbol;Acc:HGNC:11076]	null	null	17462	-0.025589002296328545	-0.33697924	No	
+row_29	TEP1	telomerase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:11726]	null	null	17607	-0.026464009657502174	-0.33382127	No	
+row_30	F2RL1	F2R like trypsin receptor 1 [Source:HGNC Symbol;Acc:HGNC:3538]	null	null	18208	-0.030970051884651184	-0.34615263	No	
+row_31	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	null	null	19813	-0.04464050009846687	-0.39138263	No	
+row_32	ATP6V1B2	ATPase H+ transporting V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	null	null	20866	-0.055454544723033905	-0.41263282	No	
+row_33	BYSL	bystin like [Source:HGNC Symbol;Acc:HGNC:1157]	null	null	21746	-0.06705128401517868	-0.4237293	Yes	
+row_34	CRISP1	cysteine rich secretory protein 1 [Source:HGNC Symbol;Acc:HGNC:304]	null	null	21771	-0.06730545312166214	-0.40298566	Yes	
+row_35	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	null	null	22041	-0.07092223316431046	-0.39017978	Yes	
+row_36	BEX1	brain expressed X-linked 1 [Source:HGNC Symbol;Acc:HGNC:1036]	null	null	22071	-0.07123882323503494	-0.36835748	Yes	
+row_37	PPP1R3A	protein phosphatase 1 regulatory subunit 3A [Source:HGNC Symbol;Acc:HGNC:9291]	null	null	22504	-0.07817601412534714	-0.35927445	Yes	
+row_38	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	null	null	22661	-0.0807921439409256	-0.3390986	Yes	
+row_39	POLR3K	RNA polymerase III subunit K [Source:HGNC Symbol;Acc:HGNC:14121]	null	null	23564	-0.09869007766246796	-0.3408792	Yes	
+row_40	LBR	lamin B receptor [Source:HGNC Symbol;Acc:HGNC:6518]	null	null	24226	-0.11654184758663177	-0.32796964	Yes	
+row_41	MRPS12	mitochondrial ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10380]	null	null	24793	-0.13539592921733856	-0.3054708	Yes	
+row_42	FOSL1	"FOS like 1, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:13718]"	null	null	25212	-0.15542128682136536	-0.2710375	Yes	
+row_43	PARD6B	par-6 family cell polarity regulator beta [Source:HGNC Symbol;Acc:HGNC:16245]	null	null	25385	-0.16685053706169128	-0.2237928	Yes	
+row_44	LRP8	LDL receptor related protein 8 [Source:HGNC Symbol;Acc:HGNC:6700]	null	null	25696	-0.18986296653747559	-0.17427675	Yes	
+row_45	TNFRSF10D	TNF receptor superfamily member 10d [Source:HGNC Symbol;Acc:HGNC:11907]	null	null	25738	-0.19326263666152954	-0.11367607	Yes	
+row_46	ETV5	ETS variant transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:3494]	null	null	26080	-0.2273855358362198	-0.053250004	Yes	
+row_47	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	26319	-0.2682698369026184	0.02414405	Yes	

@@ -1,0 +1,29 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MEF2C	myocyte enhancer factor 2C [Source:HGNC Symbol;Acc:HGNC:6996]	null	null	512	0.27673617005348206	0.13451853	Yes	
+row_1	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	null	null	1559	0.16380374133586884	0.18656623	Yes	
+row_2	NFATC2	nuclear factor of activated T cells 2 [Source:HGNC Symbol;Acc:HGNC:7776]	null	null	2281	0.12858614325523376	0.23113957	Yes	
+row_3	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	null	null	3203	0.10170888900756836	0.2533791	Yes	
+row_4	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	null	null	3433	0.09684444963932037	0.29860485	Yes	
+row_5	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	null	null	4232	0.08065532892942429	0.31373006	Yes	
+row_6	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	null	null	4301	0.0794568732380867	0.35528564	Yes	
+row_7	HDAC5	histone deacetylase 5 [Source:HGNC Symbol;Acc:HGNC:14068]	null	null	5317	0.06369680166244507	0.3529486	Yes	
+row_8	MEF2D	myocyte enhancer factor 2D [Source:HGNC Symbol;Acc:HGNC:6997]	null	null	5528	0.06096029281616211	0.37897244	Yes	
+row_9	MYOD1	myogenic differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7611]	null	null	5602	0.059979312121868134	0.40953708	Yes	
+row_10	CAMK1G	calcium/calmodulin dependent protein kinase IG [Source:HGNC Symbol;Acc:HGNC:14585]	null	null	7802	0.037518784403800964	0.34873125	No	
+row_11	CABIN1	calcineurin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:24187]	null	null	10498	0.0177665576338768	0.25855774	No	
+row_12	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	null	null	12403	0.005664272233843803	0.19102971	No	
+row_13	CAMK1	calcium/calmodulin dependent protein kinase I [Source:HGNC Symbol;Acc:HGNC:1459]	null	null	13028	0.0018869811901822686	0.16891567	No	
+row_14	MAPK7	mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:HGNC:6880]	null	null	13319	3.073302796110511E-4	0.1583223	No	
+row_15	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	null	null	13552	-8.476265938952565E-4	0.15018144	No	
+row_16	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	null	null	14384	-0.005730018485337496	0.1225162	No	
+row_17	AVP	arginine vasopressin [Source:HGNC Symbol;Acc:HGNC:894]	null	null	15637	-0.013554899021983147	0.08356573	No	
+row_18	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	null	null	16435	-0.018780484795570374	0.064402334	No	
+row_19	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	null	null	16787	-0.020905787125229836	0.062972054	No	
+row_20	PIK3CA	"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]"	null	null	16898	-0.021712565794587135	0.07093448	No	
+row_21	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	null	null	18399	-0.032431550323963165	0.03325107	No	
+row_22	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	null	null	19378	-0.04085872322320938	0.019617679	No	
+row_23	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	19835	-0.04483848810195923	0.027567055	No	
+row_24	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	null	null	20488	-0.05137643963098526	0.031868543	No	
+row_25	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	null	null	21093	-0.05817340686917305	0.041722327	No	
+row_26	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	null	null	24098	-0.11290866136550903	-0.0071391794	No	
+row_27	MEF2A	myocyte enhancer factor 2A [Source:HGNC Symbol;Acc:HGNC:6993]	null	null	25869	-0.2048892229795456	0.040828593	No	

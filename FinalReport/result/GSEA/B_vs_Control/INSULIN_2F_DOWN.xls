@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TGFB2	transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	null	null	803	0.23169627785682678	0.16066688	Yes	
+row_1	CYP4A11	cytochrome P450 family 4 subfamily A member 11 [Source:HGNC Symbol;Acc:HGNC:2642]	null	null	1166	0.19349010288715363	0.30629092	Yes	
+row_2	SH2D3C	SH2 domain containing 3C [Source:HGNC Symbol;Acc:HGNC:16884]	null	null	1531	0.1655963510274887	0.42891097	Yes	
+row_3	PCDH17	protocadherin 17 [Source:HGNC Symbol;Acc:HGNC:14267]	null	null	3645	0.0919952467083931	0.42612752	No	
+row_4	CDC16	cell division cycle 16 [Source:HGNC Symbol;Acc:HGNC:1720]	null	null	6327	0.05175113305449486	0.36918485	No	
+row_5	NIN	ninein [Source:HGNC Symbol;Acc:HGNC:14906]	null	null	6340	0.05166802927851677	0.41121283	No	
+row_6	CNTN2	contactin 2 [Source:HGNC Symbol;Acc:HGNC:2172]	null	null	9388	0.025014324113726616	0.3187102	No	
+row_7	CPA1	carboxypeptidase A1 [Source:HGNC Symbol;Acc:HGNC:2296]	null	null	10247	0.0193786583840847	0.30280235	No	
+row_8	BCL10	BCL10 immune signaling adaptor [Source:HGNC Symbol;Acc:HGNC:989]	null	null	10556	0.0173583272844553	0.30564263	No	
+row_9	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	null	null	10789	0.016002777963876724	0.3101887	No	
+row_10	CRYBA4	crystallin beta A4 [Source:HGNC Symbol;Acc:HGNC:2396]	null	null	11290	0.012779848650097847	0.3021407	No	
+row_11	MMP23B	matrix metallopeptidase 23B [Source:HGNC Symbol;Acc:HGNC:7171]	null	null	13588	-0.001030738465487957	0.21775295	No	
+row_12	ALMS1	ALMS1 centrosome and basal body associated protein [Source:HGNC Symbol;Acc:HGNC:428]	null	null	15376	-0.011818928644061089	0.16115814	No	
+row_13	TOX	thymocyte selection associated high mobility group box [Source:HGNC Symbol;Acc:HGNC:18988]	null	null	15432	-0.012217267416417599	0.16916035	No	
+row_14	TGM3	transglutaminase 3 [Source:HGNC Symbol;Acc:HGNC:11779]	null	null	15833	-0.015004679560661316	0.16665196	No	
+row_15	BRD4	bromodomain containing 4 [Source:HGNC Symbol;Acc:HGNC:13575]	null	null	15881	-0.015281599014997482	0.17747004	No	
+row_16	MSH5	mutS homolog 5 [Source:HGNC Symbol;Acc:HGNC:7328]	null	null	19056	-0.038143761456012726	0.09104776	No	
+row_17	PRKX	protein kinase X-linked [Source:HGNC Symbol;Acc:HGNC:9441]	null	null	20080	-0.047514062374830246	0.09214569	No	
+row_18	TCL6	T cell leukemia/lymphoma 6 [Source:HGNC Symbol;Acc:HGNC:13463]	null	null	20830	-0.055071841925382614	0.109623775	No	
+row_19	CLTB	clathrin light chain B [Source:HGNC Symbol;Acc:HGNC:2091]	null	null	20859	-0.055338066071271896	0.15407495	No	
+row_20	FBXL6	F-box and leucine rich repeat protein 6 [Source:HGNC Symbol;Acc:HGNC:13603]	null	null	23054	-0.08833195269107819	0.14527442	No	

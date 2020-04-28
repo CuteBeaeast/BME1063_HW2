@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	null	null	1559	0.16380374133586884	0.13431571	Yes	
+row_1	NFATC2	nuclear factor of activated T cells 2 [Source:HGNC Symbol;Acc:HGNC:7776]	null	null	2281	0.12858614325523376	0.2584097	Yes	
+row_2	PPP3CC	protein phosphatase 3 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9316]	null	null	3433	0.09684444963932037	0.32931307	Yes	
+row_3	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	null	null	4232	0.08065532892942429	0.3943222	Yes	
+row_4	MEF2D	myocyte enhancer factor 2D [Source:HGNC Symbol;Acc:HGNC:6997]	null	null	5528	0.06096029281616211	0.41778672	Yes	
+row_5	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	null	null	6525	0.04966975376009941	0.43910006	Yes	
+row_6	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	null	null	7891	0.03681416064500809	0.43164143	No	
+row_7	CABIN1	calcineurin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:24187]	null	null	10498	0.0177665576338768	0.3557931	No	
+row_8	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	null	null	10762	0.016161644831299782	0.36499432	No	
+row_9	CAPNS1	calpain small subunit 1 [Source:HGNC Symbol;Acc:HGNC:1481]	null	null	11853	0.009115542285144329	0.33524558	No	
+row_10	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	null	null	12403	0.005664272233843803	0.3215208	No	
+row_11	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	null	null	12571	0.0046979873441159725	0.32083586	No	
+row_12	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	null	null	13552	-8.476265938952565E-4	0.28546926	No	
+row_13	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	null	null	15020	-0.009627380408346653	0.24233313	No	
+row_14	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	null	null	16787	-0.020905787125229836	0.20133395	No	
+row_15	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	null	null	19378	-0.04085872322320938	0.15316884	No	
+row_16	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	19835	-0.04483848810195923	0.18885021	No	
+row_17	CAPNS2	calpain small subunit 2 [Source:HGNC Symbol;Acc:HGNC:16371]	null	null	21577	-0.06461947411298752	0.20005944	No	

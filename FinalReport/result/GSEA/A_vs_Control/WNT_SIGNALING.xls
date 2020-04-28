@@ -1,0 +1,47 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	null	null	536	0.2709891200065613	0.07588241	No	
+row_1	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	null	null	1302	0.18342715501785278	0.11230765	No	
+row_2	FZD10	frizzled class receptor 10 [Source:HGNC Symbol;Acc:HGNC:4039]	null	null	1910	0.14423391222953796	0.14074709	No	
+row_3	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	null	null	4379	0.0778745636343956	0.07660906	No	
+row_4	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	null	null	6525	0.04966975376009941	0.014497822	No	
+row_5	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	null	null	6605	0.04874700680375099	0.02879492	No	
+row_6	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	null	null	6739	0.04742515832185745	0.04061912	No	
+row_7	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	null	null	7818	0.03735731914639473	0.013785706	No	
+row_8	PLAU	"plasminogen activator, urokinase [Source:HGNC Symbol;Acc:HGNC:9052]"	null	null	7884	0.03686841204762459	0.024403894	No	
+row_9	TCF7	transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:11639]	null	null	8666	0.030348075553774834	0.0061238743	No	
+row_10	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	null	null	9463	0.024489225819706917	-0.014784278	No	
+row_11	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	null	null	9936	0.0214511901140213	-0.024732456	No	
+row_12	WNT16	Wnt family member 16 [Source:HGNC Symbol;Acc:HGNC:16267]	null	null	9991	0.021014219149947166	-0.019309912	No	
+row_13	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	null	null	11421	0.011898722499608994	-0.06817923	No	
+row_14	DVL3	dishevelled segment polarity protein 3 [Source:HGNC Symbol;Acc:HGNC:3087]	null	null	11932	0.008688079193234444	-0.08405034	No	
+row_15	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	null	null	12417	0.005591988563537598	-0.10005019	No	
+row_16	WNT3	Wnt family member 3 [Source:HGNC Symbol;Acc:HGNC:12782]	null	null	13299	3.7928420351818204E-4	-0.13263786	No	
+row_17	PPP2R5C	protein phosphatase 2 regulatory subunit B'gamma [Source:HGNC Symbol;Acc:HGNC:9311]	null	null	14865	-0.008617172949016094	-0.1877184	No	
+row_18	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	null	null	14923	-0.00893598236143589	-0.18667674	No	
+row_19	FRAT1	FRAT regulator of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:3944]	null	null	15110	-0.010164916515350342	-0.18999195	No	
+row_20	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	null	null	15138	-0.01034204289317131	-0.18733902	No	
+row_21	SFRP4	secreted frizzled related protein 4 [Source:HGNC Symbol;Acc:HGNC:10778]	null	null	15267	-0.011184307746589184	-0.18813968	No	
+row_22	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	null	null	15615	-0.013427008874714375	-0.19628157	No	
+row_23	DVL2	dishevelled segment polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:3086]	null	null	16659	-0.02007647417485714	-0.22792353	No	
+row_24	PRKCQ	protein kinase C theta [Source:HGNC Symbol;Acc:HGNC:9410]	null	null	16933	-0.021931711584329605	-0.23031068	No	
+row_25	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	null	null	17305	-0.024544607847929	-0.23541407	No	
+row_26	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	null	null	17696	-0.027033451944589615	-0.2403434	No	
+row_27	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	null	null	17760	-0.027470484375953674	-0.23297295	No	
+row_28	PRKCI	protein kinase C iota [Source:HGNC Symbol;Acc:HGNC:9404]	null	null	18093	-0.030097967013716698	-0.23466481	No	
+row_29	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	null	null	19892	-0.04534487798810005	-0.2854167	No	
+row_30	WNT7A	Wnt family member 7A [Source:HGNC Symbol;Acc:HGNC:12786]	null	null	20688	-0.05362602695822716	-0.29598832	No	
+row_31	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	null	null	21444	-0.06272003799676895	-0.30185968	Yes	
+row_32	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	null	null	21567	-0.0643937736749649	-0.2836288	Yes	
+row_33	AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	null	null	21734	-0.06688495725393295	-0.26615155	Yes	
+row_34	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	null	null	21769	-0.06726695597171783	-0.24363656	Yes	
+row_35	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	null	null	21891	-0.06893317401409149	-0.22376393	Yes	
+row_36	FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	null	null	22011	-0.07040370255708694	-0.2032972	Yes	
+row_37	CSNK1E	casein kinase 1 epsilon [Source:HGNC Symbol;Acc:HGNC:2453]	null	null	22260	-0.07406873255968094	-0.1863262	Yes	
+row_38	PPP2R5E	protein phosphatase 2 regulatory subunit B'epsilon [Source:HGNC Symbol;Acc:HGNC:9313]	null	null	22553	-0.07913029193878174	-0.16920026	Yes	
+row_39	FBXW2	F-box and WD repeat domain containing 2 [Source:HGNC Symbol;Acc:HGNC:13608]	null	null	22684	-0.08112168312072754	-0.14535345	Yes	
+row_40	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	null	null	23129	-0.08989124745130539	-0.1300692	Yes	
+row_41	MYC	"MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]"	null	null	23420	-0.09545398503541946	-0.1070988	Yes	
+row_42	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	23451	-0.09599602967500687	-0.07428	Yes	
+row_43	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	null	null	24166	-0.11493164300918579	-0.060172603	Yes	
+row_44	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	null	null	25800	-0.19841621816158295	-0.05068786	Yes	
+row_45	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	null	null	26310	-0.26612016558647156	0.02447628	Yes	

@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HOXA7	homeobox A7 [Source:HGNC Symbol;Acc:HGNC:5108]	null	null	2797	0.11274559795856476	-0.048938565	No	
+row_1	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	null	null	3203	0.10170888900756836	-0.014427795	No	
+row_2	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	null	null	3993	0.0848984643816948	-0.0023664124	No	
+row_3	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	null	null	6525	0.04966975376009941	-0.0721563	No	
+row_4	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	null	null	6739	0.04742515832185745	-0.056961503	No	
+row_5	MAP3K1	mitogen-activated protein kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6848]	null	null	7332	0.0416259840130806	-0.05866598	No	
+row_6	MAP3K5	mitogen-activated protein kinase kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6857]	null	null	7577	0.03954580798745155	-0.048461	No	
+row_7	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	null	null	9463	0.024489225819706917	-0.10652928	No	
+row_8	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	null	null	10420	0.018291113898158073	-0.13311902	No	
+row_9	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	null	null	11080	0.014131401665508747	-0.15070626	No	
+row_10	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	11776	0.009563418105244637	-0.17185579	No	
+row_11	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	null	null	11992	0.00831435713917017	-0.17578918	No	
+row_12	RAF1	"Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]"	null	null	12494	0.005086926277726889	-0.19191542	No	
+row_13	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	null	null	12736	0.0036395785864442587	-0.19909175	No	
+row_14	ETS2	"ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]"	null	null	13245	7.470679120160639E-4	-0.21759222	No	
+row_15	DAXX	death domain associated protein [Source:HGNC Symbol;Acc:HGNC:2681]	null	null	13637	-0.0013025947846472263	-0.23147729	No	
+row_16	MAP2K7	mitogen-activated protein kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6847]	null	null	14363	-0.00560817401856184	-0.25566775	No	
+row_17	RIPK1	receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]	null	null	14432	-0.00602234061807394	-0.25525898	No	
+row_18	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	null	null	15138	-0.01034204289317131	-0.2764005	No	
+row_19	RELA	"RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]"	null	null	15835	-0.015006359666585922	-0.2949355	No	
+row_20	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	null	null	16192	-0.01738174445927143	-0.29968742	No	
+row_21	PRKCQ	protein kinase C theta [Source:HGNC Symbol;Acc:HGNC:9410]	null	null	16933	-0.021931711584329605	-0.31648245	Yes	
+row_22	HRAS	"HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]"	null	null	17087	-0.022952860221266747	-0.31098193	Yes	
+row_23	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	null	null	17153	-0.023496240377426147	-0.30194885	Yes	
+row_24	FOS	"Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]"	null	null	17338	-0.024741895496845245	-0.29672793	Yes	
+row_25	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	null	null	17950	-0.02898085117340088	-0.3052984	Yes	
+row_26	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	null	null	18347	-0.032011572271585464	-0.3044084	Yes	
+row_27	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	null	null	18397	-0.03240446746349335	-0.29044124	Yes	
+row_28	CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	null	null	18434	-0.032655827701091766	-0.27586892	Yes	
+row_29	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	null	null	19005	-0.03763975203037262	-0.2786984	Yes	
+row_30	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	null	null	19113	-0.03879685327410698	-0.26377088	Yes	
+row_31	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	null	null	19435	-0.04122287034988403	-0.25560823	Yes	
+row_32	MAP3K14	mitogen-activated protein kinase kinase kinase 14 [Source:HGNC Symbol;Acc:HGNC:6853]	null	null	20523	-0.05171239376068115	-0.2707805	Yes	
+row_33	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	null	null	21093	-0.05817340686917305	-0.26356936	Yes	
+row_34	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	null	null	22048	-0.07097828388214111	-0.26441678	Yes	
+row_35	TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	null	null	22311	-0.07491366565227509	-0.23764981	Yes	
+row_36	PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]	null	null	22675	-0.0809904932975769	-0.21167293	Yes	
+row_37	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	null	null	24350	-0.1201905682682991	-0.21528222	Yes	
+row_38	ETS1	"ETS proto-oncogene 1, transcription factor [Source:HGNC Symbol;Acc:HGNC:3488]"	null	null	25598	-0.1815488338470459	-0.1731426	Yes	
+row_39	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	null	null	25760	-0.19524112343788147	-0.084004134	Yes	
+row_40	TNFRSF1B	TNF receptor superfamily member 1B [Source:HGNC Symbol;Acc:HGNC:11917]	null	null	26302	-0.2645088732242584	0.024768857	Yes	

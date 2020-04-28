@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GPT	glutamic--pyruvic transaminase [Source:HGNC Symbol;Acc:HGNC:4552]	null	null	7775	0.0377933531999588	-0.24363212	No	
+row_1	GAD1	glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092]	null	null	10145	0.02005469799041748	-0.30773807	No	
+row_2	ADSL	adenylosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:291]	null	null	12708	0.0038478870410472155	-0.39822537	No	
+row_3	DDX3X	DEAD-box helicase 3 X-linked [Source:HGNC Symbol;Acc:HGNC:2745]	null	null	13610	-0.0011713978601619601	-0.43026343	No	
+row_4	ASL	argininosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:746]	null	null	13621	-0.001212163595482707	-0.4291968	No	
+row_5	GOT2	glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	null	null	15024	-0.009643514640629292	-0.4697743	No	
+row_6	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	null	null	16922	-0.0218729879707098	-0.5142125	No	
+row_7	GAD2	glutamate decarboxylase 2 [Source:HGNC Symbol;Acc:HGNC:4093]	null	null	19061	-0.03820442035794258	-0.548223	Yes	
+row_8	DDO	D-aspartate oxidase [Source:HGNC Symbol;Acc:HGNC:2727]	null	null	19632	-0.04292907938361168	-0.51845694	Yes	
+row_9	CAD	"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]"	null	null	19940	-0.045952364802360535	-0.475348	Yes	
+row_10	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	null	null	20790	-0.05469132959842682	-0.44198307	Yes	
+row_11	CRAT	carnitine O-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2342]	null	null	21310	-0.06085658073425293	-0.3890632	Yes	
+row_12	AGXT	alanine--glyoxylate and serine--pyruvate aminotransferase [Source:HGNC Symbol;Acc:HGNC:341]	null	null	21490	-0.06335186213254929	-0.32056987	Yes	
+row_13	ASNS	asparagine synthetase (glutamine-hydrolyzing) [Source:HGNC Symbol;Acc:HGNC:753]	null	null	23320	-0.09351229667663574	-0.27752218	Yes	
+row_14	PC	pyruvate carboxylase [Source:HGNC Symbol;Acc:HGNC:8636]	null	null	24472	-0.12416615337133408	-0.17296556	Yes	
+row_15	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	null	null	26042	-0.22392190992832184	0.034391847	Yes	
