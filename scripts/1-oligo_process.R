@@ -1,7 +1,7 @@
 library(oligo) # oligo 
 library(pd.hugene.2.0.st) # array info library
 library(hugene20sttranscriptcluster.db) # annotation package
-# library(limma) # diffrential expression analysis
+library(limma) # diffrential expression analysis
 
 # read data
 
@@ -45,6 +45,9 @@ MAplot(eset)
 # box plot after Normalization
 svg('../FinalReport/images/boxplot_after_rma.svg')
 oligo::boxplot(eset)
+# MDS plot
+svg('../FinalReport/images/MDS.svg')
+plotMDS(eset)
 
 # save data
 
@@ -67,7 +70,19 @@ write.table(all, file="../FinalReport/result/data.ann.txt", sep='\t')
 # differential expression analysis
 
 # design <- model.matrix(~factor(eset[["Key"]]))
-# fit <- lmFit(eset, design)
-# ebayes <- eBayes(fit)
-# lod <- -log10(ebayes[["p.value"]][,2])
-# mtstat<- ebayes[["t"]][,2]
+fData(eset)$GENEID <- rownames(fData(eset))
+fData(eset) <- merge(Annot, fData(eset), by.x=0, by.y=0, all=T)
+design <- model.matrix(~ 0+factor(c(1,1,1,2,2,2,3,3,3)))
+colnames(design) <- c("Control", "A", "B")
+fit <- lmFit(eset, design)
+contrast.matrix <- makeContrasts(Control-A, Control-B, levels=design)
+fit2 <- contrasts.fit(fit, contrast.matrix)
+fit2 <- eBayes(fit2)
+results <- decideTests(fit2)
+
+write.table(summary(results), '../FinalReport/result/DE_summary.txt')
+write.fit(fit2, results, "../FinalReport/result/DE.txt")
+
+svg("../FinalReport/images/Venn_DE.svg")
+vennDiagram(results)
+
