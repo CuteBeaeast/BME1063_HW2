@@ -28,8 +28,8 @@ sampleNames(affyRaw) <- sns
 
 # QC
 # MA plot
-svg('../FinalReport/images/MAplot.svg')
-MAplot(affyRaw)
+png('../FinalReport/images/MAplot.png')
+MAplot(affyRaw, pairs=TRUE)
 # box plot
 svg('../FinalReport/images/boxplot.svg')
 oligo::boxplot(affyRaw, 'all')
@@ -40,8 +40,8 @@ oligo::boxplot(affyRaw, 'all')
 eset <- rma(affyRaw)
 
 # MA plot after normalization
-pdf('../FinalReport/images/MAplot_after_rma.pdf')
-MAplot(eset)
+png('../FinalReport/images/MAplot_after_rma.png')
+MAplot(eset, pairs=TRUE)
 # box plot after Normalization
 svg('../FinalReport/images/boxplot_after_rma.svg')
 oligo::boxplot(eset)
