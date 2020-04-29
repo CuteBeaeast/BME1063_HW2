@@ -1,0 +1,4 @@
+"Control - A" "Control - B"
+"Down" 727 3324
+"NotSig" 52082 46663
+"Up" 808 3630
