@@ -1,0 +1,45 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C15orf65	chromosome 15 open reading frame 65 [Source:HGNC Symbol;Acc:HGNC:44654]	null	null	337	0.3221467137336731	0.10322091	Yes	
+row_1	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	null	null	569	0.2654989957809448	0.19002688	Yes	
+row_2	NMRK1	nicotinamide riboside kinase 1 [Source:HGNC Symbol;Acc:HGNC:26057]	null	null	765	0.23743705451488495	0.2680881	Yes	
+row_3	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	null	null	1075	0.20157963037490845	0.32903314	Yes	
+row_4	RGCC	regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369]	null	null	1571	0.16310879588127136	0.36924905	Yes	
+row_5	CYP4B1	cytochrome P450 family 4 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2644]	null	null	3454	0.09631785750389099	0.33395758	Yes	
+row_6	CCDC8	coiled-coil domain containing 8 [Source:HGNC Symbol;Acc:HGNC:25367]	null	null	3457	0.09619513154029846	0.36844307	Yes	
+row_7	CDK14	cyclin dependent kinase 14 [Source:HGNC Symbol;Acc:HGNC:8883]	null	null	3610	0.09251135587692261	0.39603424	Yes	
+row_8	SNX7	sorting nexin 7 [Source:HGNC Symbol;Acc:HGNC:14971]	null	null	4031	0.08436832576990128	0.4107467	Yes	
+row_9	CNP	"2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]"	null	null	4823	0.0707283616065979	0.40678024	Yes	
+row_10	DLX5	distal-less homeobox 5 [Source:HGNC Symbol;Acc:HGNC:2918]	null	null	4864	0.07018439471721649	0.43050963	Yes	
+row_11	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	null	null	7956	0.03619861230254173	0.3287185	No	
+row_12	FLOT1	flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]	null	null	8272	0.03379787504673004	0.32916224	No	
+row_13	FAF2	Fas associated factor family member 2 [Source:HGNC Symbol;Acc:HGNC:24666]	null	null	8424	0.032458458095788956	0.33521554	No	
+row_14	DDB2	damage specific DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2718]	null	null	8783	0.029404468834400177	0.3324839	No	
+row_15	DRAM2	DNA damage regulated autophagy modulator 2 [Source:HGNC Symbol;Acc:HGNC:28769]	null	null	8963	0.028105344623327255	0.33593336	No	
+row_16	WASHC4	WASH complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:29174]	null	null	10169	0.019924338907003403	0.29833925	No	
+row_17	NRAS	"NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]"	null	null	11121	0.01377970352768898	0.2679708	No	
+row_18	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	null	null	11318	0.012585625052452087	0.2652132	No	
+row_19	SAMSN1	"SAM domain, SH3 domain and nuclear localization signals 1 [Source:HGNC Symbol;Acc:HGNC:10528]"	null	null	11689	0.010191093198955059	0.25513315	No	
+row_20	MOCS2	molybdenum cofactor synthesis 2 [Source:HGNC Symbol;Acc:HGNC:7193]	null	null	11836	0.009204775094985962	0.25301787	No	
+row_21	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	null	null	12083	0.007710183504968882	0.24665172	No	
+row_22	RAB40C	"RAB40C, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18285]"	null	null	12340	0.006049250718206167	0.23931749	No	
+row_23	LLGL1	LLGL scribble cell polarity complex component 1 [Source:HGNC Symbol;Acc:HGNC:6628]	null	null	12668	0.004141011741012335	0.22866082	No	
+row_24	SIAE	sialic acid acetylesterase [Source:HGNC Symbol;Acc:HGNC:18187]	null	null	12790	0.003325794357806444	0.22536187	No	
+row_25	MAML2	mastermind like transcriptional coactivator 2 [Source:HGNC Symbol;Acc:HGNC:16259]	null	null	14049	-0.003692047204822302	0.17996766	No	
+row_26	BICRA	BRD4 interacting chromatin remodeling complex associated protein [Source:HGNC Symbol;Acc:HGNC:4332]	null	null	14264	-0.005007743835449219	0.17381908	No	
+row_27	C8orf48	chromosome 8 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:26345]	null	null	15150	-0.010419243015348911	0.1446945	No	
+row_28	CXorf56	chromosome X open reading frame 56 [Source:HGNC Symbol;Acc:HGNC:26239]	null	null	15428	-0.012202532961964607	0.13879102	No	
+row_29	ARHGEF10	Rho guanine nucleotide exchange factor 10 [Source:HGNC Symbol;Acc:HGNC:14103]	null	null	15569	-0.013124505057930946	0.13830678	No	
+row_30	C8orf58	chromosome 8 open reading frame 58 [Source:HGNC Symbol;Acc:HGNC:32233]	null	null	15868	-0.01517257746309042	0.13269043	No	
+row_31	RFTN1	"raftlin, lipid raft linker 1 [Source:HGNC Symbol;Acc:HGNC:30278]"	null	null	15993	-0.01601044461131096	0.13383724	No	
+row_32	COX8A	cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294]	null	null	17097	-0.023058081045746803	0.10115712	No	
+row_33	GTPBP3	"GTP binding protein 3, mitochondrial [Source:HGNC Symbol;Acc:HGNC:14880]"	null	null	17527	-0.025930557399988174	0.09454056	No	
+row_34	SNAP23	synaptosome associated protein 23 [Source:HGNC Symbol;Acc:HGNC:11131]	null	null	17528	-0.02593172714114189	0.10385697	No	
+row_35	KCNK12	potassium two pore domain channel subfamily K member 12 [Source:HGNC Symbol;Acc:HGNC:6274]	null	null	17831	-0.02799062617123127	0.10269716	No	
+row_36	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	null	null	18097	-0.030133625492453575	0.103681386	No	
+row_37	RHOQ	ras homolog family member Q [Source:HGNC Symbol;Acc:HGNC:17736]	null	null	18568	-0.0336495004594326	0.0983153	No	
+row_38	ZNHIT6	zinc finger HIT-type containing 6 [Source:HGNC Symbol;Acc:HGNC:26089]	null	null	19544	-0.042164161801338196	0.07725314	No	
+row_39	DENND10	DENN domain containing 10 [Source:HGNC Symbol;Acc:HGNC:31793]	null	null	20254	-0.04909871146082878	0.06856126	No	
+row_40	SEMA3C	semaphorin 3C [Source:HGNC Symbol;Acc:HGNC:10725]	null	null	23441	-0.09570485353469849	-0.015379429	No	
+row_41	SHLD2	shieldin complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28773]	null	null	24458	-0.12379017472267151	-0.008638743	No	
+row_42	TEAD1	TEA domain transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11714]	null	null	24923	-0.14072264730930328	0.024685852	No	
+row_43	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase [Source:HGNC Symbol;Acc:HGNC:1769]	null	null	24970	-0.14268766343593597	0.07424044	No	

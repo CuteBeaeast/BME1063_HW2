@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SEMA4B	semaphorin 4B [Source:HGNC Symbol;Acc:HGNC:10730]	null	null	5628	0.05970359221100807	-0.16323195	No	
+row_1	C6orf141	chromosome 6 open reading frame 141 [Source:HGNC Symbol;Acc:HGNC:21351]	null	null	6235	0.05293790251016617	-0.14528619	No	
+row_2	TMEM45B	transmembrane protein 45B [Source:HGNC Symbol;Acc:HGNC:25194]	null	null	7412	0.040970515459775925	-0.1576309	No	
+row_3	LAD1	ladinin 1 [Source:HGNC Symbol;Acc:HGNC:6472]	null	null	9237	0.02604873850941658	-0.20541681	No	
+row_4	DAPP1	dual adaptor of phosphotyrosine and 3-phosphoinositides 1 [Source:HGNC Symbol;Acc:HGNC:16500]	null	null	13732	-0.0018194366712123156	-0.37078044	No	
+row_5	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	null	null	13859	-0.0025321387220174074	-0.3735218	No	
+row_6	AMPD3	adenosine monophosphate deaminase 3 [Source:HGNC Symbol;Acc:HGNC:470]	null	null	14417	-0.005933417938649654	-0.389658	No	
+row_7	PRSS22	serine protease 22 [Source:HGNC Symbol;Acc:HGNC:14368]	null	null	15351	-0.011712025851011276	-0.4153325	No	
+row_8	FAM83A	family with sequence similarity 83 member A [Source:HGNC Symbol;Acc:HGNC:28210]	null	null	18634	-0.03423435613512993	-0.5109667	Yes	
+row_9	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	null	null	18833	-0.03593914955854416	-0.4908648	Yes	
+row_10	C1orf116	chromosome 1 open reading frame 116 [Source:HGNC Symbol;Acc:HGNC:28667]	null	null	19720	-0.04369795694947243	-0.49036574	Yes	
+row_11	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	null	null	19935	-0.045834753662347794	-0.46329963	Yes	
+row_12	SH2D3A	SH2 domain containing 3A [Source:HGNC Symbol;Acc:HGNC:16885]	null	null	20819	-0.054966822266578674	-0.45408255	Yes	
+row_13	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	null	null	21028	-0.057328589260578156	-0.41801527	Yes	
+row_14	FGFBP1	fibroblast growth factor binding protein 1 [Source:HGNC Symbol;Acc:HGNC:19695]	null	null	22125	-0.07192911952733994	-0.40374658	Yes	
+row_15	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	null	null	23787	-0.10419487953186035	-0.38579935	Yes	
+row_16	TGFA	transforming growth factor alpha [Source:HGNC Symbol;Acc:HGNC:11765]	null	null	24912	-0.14038397371768951	-0.32028654	Yes	
+row_17	MST1R	macrophage stimulating 1 receptor [Source:HGNC Symbol;Acc:HGNC:7381]	null	null	25153	-0.15256944298744202	-0.2126655	Yes	
+row_18	SDR16C5	short chain dehydrogenase/reductase family 16C member 5 [Source:HGNC Symbol;Acc:HGNC:30311]	null	null	25192	-0.154547318816185	-0.09603845	Yes	
+row_19	ADAM8	ADAM metallopeptidase domain 8 [Source:HGNC Symbol;Acc:HGNC:215]	null	null	25929	-0.2120278924703598	0.038590126	Yes	

@@ -1,0 +1,47 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GCNT1	glucosaminyl (N-acetyl) transferase 1 [Source:HGNC Symbol;Acc:HGNC:4203]	null	null	779	0.23518714308738708	0.03347769	No	
+row_1	SERPINI1	serpin family I member 1 [Source:HGNC Symbol;Acc:HGNC:8943]	null	null	1001	0.20740225911140442	0.080307186	No	
+row_2	CHODL	chondrolectin [Source:HGNC Symbol;Acc:HGNC:17807]	null	null	1499	0.16758830845355988	0.106320284	No	
+row_3	BIK	BCL2 interacting killer [Source:HGNC Symbol;Acc:HGNC:1051]	null	null	1778	0.151611790060997	0.13622774	No	
+row_4	IRS1	insulin receptor substrate 1 [Source:HGNC Symbol;Acc:HGNC:6125]	null	null	1922	0.14337286353111267	0.16896297	No	
+row_5	SLC7A8	solute carrier family 7 member 8 [Source:HGNC Symbol;Acc:HGNC:11066]	null	null	2507	0.12079962342977524	0.17932856	No	
+row_6	FLVCR2	feline leukemia virus subgroup C cellular receptor family member 2 [Source:HGNC Symbol;Acc:HGNC:20105]	null	null	2547	0.11965340375900269	0.20963214	No	
+row_7	CFAP74	cilia and flagella associated protein 74 [Source:HGNC Symbol;Acc:HGNC:29368]	null	null	4719	0.0723939761519432	0.14820875	No	
+row_8	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	null	null	4838	0.0705367773771286	0.1625442	No	
+row_9	TBX3	T-box transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11602]	null	null	4872	0.07006977498531342	0.17991276	No	
+row_10	LBP	lipopolysaccharide binding protein [Source:HGNC Symbol;Acc:HGNC:6517]	null	null	5243	0.0647875964641571	0.18336289	No	
+row_11	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	null	null	5280	0.06433673202991486	0.19909866	No	
+row_12	QPCT	glutaminyl-peptide cyclotransferase [Source:HGNC Symbol;Acc:HGNC:9753]	null	null	5401	0.06264075636863708	0.21126448	No	
+row_13	GADD45G	growth arrest and DNA damage inducible gamma [Source:HGNC Symbol;Acc:HGNC:4097]	null	null	6548	0.04940621927380562	0.18181102	No	
+row_14	CDX2	caudal type homeobox 2 [Source:HGNC Symbol;Acc:HGNC:1806]	null	null	7151	0.04336726292967796	0.17096004	No	
+row_15	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	null	null	7818	0.03735731914639473	0.15613715	No	
+row_16	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	null	null	7980	0.03605653718113899	0.15972559	No	
+row_17	ENC1	ectodermal-neural cortex 1 [Source:HGNC Symbol;Acc:HGNC:3345]	null	null	8672	0.03029119037091732	0.14209905	No	
+row_18	CRYM	crystallin mu [Source:HGNC Symbol;Acc:HGNC:2418]	null	null	9076	0.027184752747416496	0.13434494	No	
+row_19	EEF1A2	eukaryotic translation elongation factor 1 alpha 2 [Source:HGNC Symbol;Acc:HGNC:3192]	null	null	9242	0.02597622200846672	0.13510981	No	
+row_20	ABCB1	ATP binding cassette subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:40]	null	null	10050	0.02064630761742592	0.11061541	No	
+row_21	GAD1	glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092]	null	null	10145	0.02005469799041748	0.112445965	No	
+row_22	FGF20	fibroblast growth factor 20 [Source:HGNC Symbol;Acc:HGNC:3677]	null	null	10907	0.01527436263859272	0.08823454	No	
+row_23	SASH3	SAM and SH3 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:15975]	null	null	10949	0.014941082336008549	0.090676606	No	
+row_24	HBA2	hemoglobin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4824]	null	null	11613	0.01062859408557415	0.06887221	No	
+row_25	FUT1	fucosyltransferase 1 (H blood group) [Source:HGNC Symbol;Acc:HGNC:4012]	null	null	11714	0.009928300976753235	0.067792706	No	
+row_26	LY6G6D	lymphocyte antigen 6 family member G6D [Source:HGNC Symbol;Acc:HGNC:13935]	null	null	12305	0.006373311392962933	0.047570437	No	
+row_27	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:3357]	null	null	12623	0.004445717204362154	0.036976304	No	
+row_28	ARHGEF5	Rho guanine nucleotide exchange factor 5 [Source:HGNC Symbol;Acc:HGNC:13209]	null	null	13374	8.634422556497157E-6	0.009122406	No	
+row_29	CAVIN1	caveolae associated protein 1 [Source:HGNC Symbol;Acc:HGNC:9688]	null	null	14548	-0.006755391601473093	-0.032652013	No	
+row_30	DEFA5	defensin alpha 5 [Source:HGNC Symbol;Acc:HGNC:2764]	null	null	15486	-0.012560893781483173	-0.06412043	No	
+row_31	DBNDD1	dysbindin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28455]	null	null	16573	-0.01952759176492691	-0.0992742	No	
+row_32	PPP1R1A	protein phosphatase 1 regulatory inhibitor subunit 1A [Source:HGNC Symbol;Acc:HGNC:9286]	null	null	17019	-0.02252841740846634	-0.1098239	No	
+row_33	PLEKHF1	pleckstrin homology and FYVE domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20764]	null	null	18119	-0.030282292515039444	-0.14260657	No	
+row_34	DNAJC3	DnaJ heat shock protein family (Hsp40) member C3 [Source:HGNC Symbol;Acc:HGNC:9439]	null	null	18460	-0.032860901206731796	-0.1465145	No	
+row_35	MICU1	mitochondrial calcium uptake 1 [Source:HGNC Symbol;Acc:HGNC:1530]	null	null	19437	-0.041238803416490555	-0.17182125	No	
+row_36	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	null	null	19813	-0.04464050009846687	-0.17390321	No	
+row_37	ENO2	enolase 2 [Source:HGNC Symbol;Acc:HGNC:3353]	null	null	20178	-0.04846196994185448	-0.17456253	No	
+row_38	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	null	null	20391	-0.050510987639427185	-0.16903257	No	
+row_39	LMO2	LIM domain only 2 [Source:HGNC Symbol;Acc:HGNC:6642]	null	null	21427	-0.06252401322126389	-0.1908823	No	
+row_40	ITGA9	integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	null	null	23664	-0.10125787556171417	-0.24706034	No	
+row_41	HOXA1	homeobox A1 [Source:HGNC Symbol;Acc:HGNC:5099]	null	null	25904	-0.20869915187358856	-0.27483842	Yes	
+row_42	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	null	null	25905	-0.20896221697330475	-0.21938667	Yes	
+row_43	ETV5	ETS variant transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:3494]	null	null	26080	-0.2273855358362198	-0.1655086	Yes	
+row_44	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	26319	-0.2682698369026184	-0.10315825	Yes	
+row_45	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	null	null	26836	-0.4795733392238617	0.0049397917	Yes	
